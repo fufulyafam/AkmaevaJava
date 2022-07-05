@@ -29,7 +29,7 @@ public class Tasks {
     }
     public static void Task1 () {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Введите число");
+        System.out.println("Введите число ");
 
         int checkNumber = scanner.nextInt();
         if (checkNumber > 7) {
