@@ -35,7 +35,7 @@ public class Tasks {
         if (checkNumber > 7) {
             System.out.println("Привет");
         } else if (checkNumber <= 7) {
-            System.out.println("Вы ввели число <= 7");
+            System.out.println("Вы ввели число <= 7 ");
         } else {
             System.out.println("Вы ввели не число. Повторите");
         }
